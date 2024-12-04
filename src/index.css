@@ -1,0 +1,14 @@
+body {
+  padding: 50px;
+  background-color: blueviolet;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  background-color: black;
+  padding: 10px;
+  color: white;
+}
